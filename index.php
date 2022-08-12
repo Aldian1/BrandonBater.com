@@ -75,7 +75,7 @@
       </div>
     </div>
   </div>
-  <div class="section-book-a-free-call wf-section"><img src="images/DSC02629.png" loading="lazy" alt="Brandon Image" class="brandon-image-mobile">
+  <div class="section-book-a-free-call wf-section"><img src="images/Untitled.jpg" loading="lazy" alt="Brandon Image" class="brandon-image-mobile">
     <div data-w-id="3e87b09c-45ff-e71c-44c9-7a9fcc16d6de" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(4.9deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(4.9deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(4.9deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(4.9deg) skew(0, 0)" class="cta-banner">
       <a id="mainButton" href="#" data-w-id="a9206665-dd3c-7f9f-e539-d80ea2055f27" class="text-wrap w-inline-block">
         <h2 class="banner-text">CLICK HERE TO BOOK A FREE CALL WITH ME TODAY</h2>
